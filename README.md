@@ -8,11 +8,6 @@
 - Experimentación con modelos LLM para aplicaciones empresariales
 - Arquitecturas cloud-native para aplicaciones de IA
 
-👥 **Busco colaborar en:**
-- Proyectos de empresas líderes en tecnología
-- Iniciativas que involucren AWS, Oracle o Meta
-- Implementaciones de Large Language Models (LLMs)
-- Soluciones innovadoras basadas en Vector Databases y RAG
 
 💡 **Busco ayuda con:**
 - Preparación para certificaciones avanzadas de AWS
@@ -37,8 +32,11 @@
 ## 🏆 Certificaciones:
 Estoy comenzando mi camino de certificaciones profesionales en tecnología:
 
-- [AWS Educate Cloud Computing 101](https://www.credly.com/badges/da6c40a4-793a-4aca-a283-116f50f828ab)
-- AWS Cloud Quest: Cloud Practitioner
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/da6c40a4-793a-4aca-a283-116f50f828ab)
+- [AWS Educate Cloud Computing 101](https://www.credly.com/badges/b4af5415-3785-48f0-b655-12bf0025989e/public_url)
+- [AWS Educate Getting Started with Storage](https://www.credly.com/badges/a6d139c7-5b5d-42b2-bb09-478811ecb3cf/public_url)
+- [AWS Educate Introduction to Generative AI](https://www.credly.com/badges/ddef9d01-628a-41cf-acb6-05e99a1607f7/public_url)
+- [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/f590304c-d7fb-4ac5-a206-05b3c3c50c66/public_url)
 
 Estas certificaciones representan mis primeros pasos en el mundo de la nube y AWS. Actualmente preparándome para obtener la certificación AWS Certified Solutions Architect - Associate.
 
